@@ -106,49 +106,66 @@ A adoção desse percurso comum busca:
 | Desenvolvimento incremental | [Data/período] | [Data/período] | [Atividades] | [Registre mudanças ou relação com outras etapas] |
 | Validação e aperfeiçoamento | [Data/período] | [Data/período] | [Atividades] | [Registre mudanças ou relação com outras etapas] |
 
-#### Materiais e orçamento 
-<!-- Preencha esta tabela somente quando for necessária para o projeto. --> 
+## Capacitações, tecnologias, materiais e orçamento
 
-| Material ou componente | Quantidade | Finalidade | Valor estimado |
-|---|---:|---|---:|
-| [Item] | [Quantidade] | [Como será utilizado] | R$ [valor] |
-|||| **R$ [total geral]** |
+| Capacitação | Finalidade no projeto | Período | Situação |
+|---|---|---|---|
+| [Capacitação] | [Por que foi necessária] | [mm/aaaa] | [Prevista / Em andamento / Concluída] |
+| [Capacitação] | [Por que foi necessária] | [mm/aaaa] | [Prevista / Em andamento / Concluída] |
 
-# Artefatos do projeto
+### Tecnologias, ferramentas e equipamentos
 
-- [`apresentacao/`](apresentacao/) – apresentações e materiais de divulgação;
-- [`documentacao/`](documentacao/) – relatórios, fichas e documentos;
-- [`imagens/`](imagens/) – registros visuais autorizados;
-- [`materiais-didaticos/`](materiais-didaticos/) – materiais para aplicação pedagógica;
-- [`modelos-3d/`](modelos-3d/) – arquivos de modelagem e impressão 3D;
-- [`codigos/`](codigos/) – códigos-fonte, quando aplicáveis;
-- [`resultados/`](resultados/) – registros de testes e avaliações.
+| Tecnologia, ferramenta ou equipamento | Finalidade no projeto | Forma de acesso |
+|---|---|---|
+| [Software, impressora, máquina, instrumento etc.] | [Como será utilizado] | [Disponível no campus / Empréstimo / Aquisição / Outro] |
+| [Software, impressora, máquina, instrumento etc.] | [Como será utilizado] | [Forma de acesso] |
 
-# Equipe
+### Materiais e orçamento
 
-### Estudantes
+<!-- Preencha os valores somente quando houver necessidade de aquisição. -->
 
-- [Nome – curso – participação no projeto]
+| Material ou componente | Quantidade | Finalidade | Disponibilidade | Valor estimado |
+|---|---:|---|---|---:|
+| [Item] | [Quantidade] | [Como será utilizado] | [Disponível / Necessita aquisição] | R$ [valor] |
+| [Item] | [Quantidade] | [Como será utilizado] | [Disponível / Necessita aquisição] | R$ [valor] |
+| **Total estimado** |  |  |  | **R$ [total]** |
 
-### Servidores
+## Artefatos do projeto
 
-- [Nome – função no projeto]
+[Relacione os arquivos, documentos e demais produtos gerados durante o desenvolvimento. Acrescente ou exclua linhas conforme necessário.]
 
-### Colaboradores e parceiros
+| Artefato | Descrição | Formato ou localização | Situação |
+|---|---|---|---|
+| Apresentação do projeto | [Breve descrição] | [`apresentacao/`](apresentacao/) | [Previsto / Em elaboração / Disponível] |
+| Documentação | [Relatórios, fichas técnicas ou orientações] | [`documentacao/`](documentacao/) | [Situação] |
+| Material didático | [Descrição do material] | [`materiais-didaticos/`](materiais-didaticos/) | [Situação] |
+| Código-fonte | [Descrição do código] | [`codigos/`](codigos/) | [Situação] |
+| Modelo 3D | [Descrição do modelo] | [`modelos-3d/`](modelos-3d/) | [Situação] |
+| Imagens | [Registros autorizados] | [`imagens/`](imagens/) | [Situação] |
+| Resultados | [Testes, avaliações ou evidências] | [`resultados/`](resultados/) | [Situação] |
+| Outros | [Descrição] | [Arquivo, pasta ou endereço] | [Situação] |
 
-- [Nome da pessoa ou instituição – forma de participação]
+> [!NOTE]
+> **Possibilidades de replicação:** [Explique quais artefatos e orientações serão disponibilizados e como o material poderá ser reproduzido, utilizado ou adaptado por outras pessoas, escolas ou instituições. Indique também se a replicação exige equipamentos, materiais, conhecimentos técnicos ou condições específicas.]
+> **Créditos e licenças:** [Informe a autoria dos arquivos, modelos, códigos, imagens e materiais externos utilizados.]
 
 ## Produções e participação em eventos
 
 - [Evento, publicação, apresentação ou produção relacionada]
+ 
+# Equipe
+[Apresente as pessoas e instituições envolvidas e descreva objetivamente a participação de cada uma. Acrescente ou exclua linhas conforme necessário.]
 
-## Possibilidades de replicação
+| Categoria | Nome | Curso, setor ou instituição | Participação no projeto |
+|---|---|---|---|
+| Estudante | [Nome] | [Curso] | [Atividades e responsabilidades] |
+| Estudante | [Nome] | [Curso] | [Atividades e responsabilidades] |
+| Servidor | [Nome] | [Setor, área ou função institucional] | [Função no projeto] |
+| Servidor | [Nome] | [Setor, área ou função institucional] | [Função no projeto] |
+| Colaborador | [Nome] | [Instituição ou área de atuação] | [Forma de colaboração] |
+| Instituição parceira | [Nome da instituição] | [Município ou setor] | [Forma de participação no projeto] |
 
-[Explique quais arquivos e orientações serão disponibilizados e como o material poderá ser reproduzido ou adaptado por outras pessoas e instituições.]
 
-## Créditos e licenças
-
-[Informe a autoria dos arquivos, modelos, códigos, imagens e materiais externos utilizados.]
 
 ## Instituição
 
